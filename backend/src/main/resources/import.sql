@@ -1,6 +1,10 @@
-INSERT INTO tb_client (name, cpf, income, birth_date, children, created_at) VALUES ('MARIA', '11111111111', 50, '2001-11-17T14:22:40Z', 2, NOW());
-INSERT INTO tb_client (name, cpf, income, birth_date, children, created_at) VALUES ('CARLOS', '22222222222', 18, '2004-12-11T22:11:22Z', 1, NOW());
-INSERT INTO tb_client (name, cpf, income, birth_date, children, created_at) VALUES ('EDUARDO', '33333333333', 37, '2007-10-28T19:18:14Z', 4, NOW());
-INSERT INTO tb_client (name, cpf, income, birth_date, children, created_at) VALUES ('JOSE', '12312211122', 28, '2012-12-14T11:23:20Z', 1, NOW());
-INSERT INTO tb_client (name, cpf, income, birth_date, children, created_at) VALUES ('JOAO', '56985632147', 19, '2009-10-19T17:17:28Z', 3, NOW());
-INSERT INTO tb_client (name, cpf, income, birth_date, children, created_at) VALUES ('FABIO', '55632698563', 25, '2008-11-21T14:15:17Z', 5, NOW());
+INSERT INTO tb_client (name, cpf, income, birth_date, children, created_at) VALUES ('MARIA', '11111111111', 5000, '2001-11-17T14:22:40Z', 2, NOW());
+INSERT INTO tb_client (name, cpf, income, birth_date, children, created_at) VALUES ('CARLOS', '22222222222', 1800, '2000-12-11T22:11:22Z', 1, NOW());
+INSERT INTO tb_client (name, cpf, income, birth_date, children, created_at) VALUES ('EDUARDO', '33333333333', 3700, '2002-10-28T19:18:14Z', 4, NOW());
+INSERT INTO tb_client (name, cpf, income, birth_date, children, created_at) VALUES ('JOSE', '12312211122', 2850, '2002-11-14T11:23:20Z', 1, NOW());
+INSERT INTO tb_client (name, cpf, income, birth_date, children, created_at) VALUES ('JOAO', '56985632147', 1950, '2001-10-19T17:17:28Z', 3, NOW());
+INSERT INTO tb_client (name, cpf, income, birth_date, children, created_at) VALUES ('FABIO', '55632698563', 2500, '2001-11-21T14:15:17Z', 5, NOW());
+INSERT INTO tb_client (name, cpf, income, birth_date, children, created_at) VALUES ('FABIOLA', '44756300087', 11200, '2001-10-28T19:18:14Z', 3, NOW());
+INSERT INTO tb_client (name, cpf, income, birth_date, children, created_at) VALUES ('EMMANUEL', '11776633220', 12500, '1999-12-14T11:23:20Z', 1, NOW());
+INSERT INTO tb_client (name, cpf, income, birth_date, children, created_at) VALUES ('FRANCISCO', '44786521004', 4780, '1976-08-24T12:17:28Z', 2, NOW());
+INSERT INTO tb_client (name, cpf, income, birth_date, children, created_at) VALUES ('MARTHA', '44223388552', 9800, '1998-07-04T14:15:17Z', 1, NOW());
